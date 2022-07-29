@@ -1,0 +1,22 @@
+PODS:
+  - bluetooth_state_manager (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - bluetooth_state_manager (from `.symlinks/plugins/bluetooth_state_manager/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  bluetooth_state_manager:
+    :path: ".symlinks/plugins/bluetooth_state_manager/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  bluetooth_state_manager: c2568ee20b3eed65f3c65b5858c64da719586733
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
