@@ -2,7 +2,7 @@
 
 The Bluetooth State Manager package only meets the needs of those who want to monitor the bluetooth status.The example scenario is to separate the state process from the processes done in its native layer instead of using other Bluetooth packages.
 
-[![pubdev](https://img.shields.io/badge/pub-flutter__state__manager-blue)](https://pub.dev/packages/flutter_state_manager)
+[![pubdev](https://img.shields.io/badge/pub-bluetooth_state_manager-blue)](https://pub.dev/packages/flutter_state_manager)
 
 ## Ekler
 
